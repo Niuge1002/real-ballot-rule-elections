@@ -1,0 +1,11 @@
+# Versions recorded in the supplied source release, excluding plotting/PDF packages.
+# Use CPython 3.11. pip also resolves the declared dependencies of these packages.
+numpy==2.4.6
+scipy==1.17.1
+pandas==2.3.3
+statsmodels==0.15.0
+pabutools==1.2.3
+pulp==3.3.2
+gmpy2==2.3.1
+natsort==8.4.0
+preflibtools==2.0.33
